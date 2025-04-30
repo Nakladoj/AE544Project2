@@ -5,3 +5,5 @@
 https://www.investopedia.com/terms/m/montecarlosimulation.asp
 
 https://www.mathworks.com/help/parallel-computing/parfor.html
+
+![Monte Carlo Success Comparison](https://github.com/user-attachments/assets/3441c285-e981-4c5a-874a-5923ba42633a)
