@@ -2,3 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/c4902f97-4ae6-4b69-8f6c-519f35125a8c)
 
+https://www.investopedia.com/terms/m/montecarlosimulation.asp
+
+https://www.mathworks.com/help/parallel-computing/parfor.html
