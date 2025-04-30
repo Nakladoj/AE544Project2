@@ -11,3 +11,12 @@ https://www.mathworks.com/help/parallel-computing/parfor.html
 ![Control Vector Q Components](https://github.com/user-attachments/assets/39ee7f3a-8f4a-437d-9ea0-6d46a0c8ce29)
 
 ![Q Dot Vector Components](https://github.com/user-attachments/assets/05bb0664-7281-4b89-a687-56de33777496)
+
+
+
+
+![Trajectories](https://github.com/user-attachments/assets/362c995c-86f3-4d07-852c-f4e49ffd3c8c)
+
+![Mass Matrix Effect](https://github.com/user-attachments/assets/2c9ffd94-e0f7-474c-bc39-102ce6ac0c69)
+
+![ThreeLinkRobotAnimation](https://github.com/user-attachments/assets/9611d965-7a48-4adb-9611-69d6c42f9d33)
