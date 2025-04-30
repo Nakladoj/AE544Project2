@@ -97,13 +97,6 @@ A function was created for this purpose and will be used throughout the rest of 
 
 The success rate of the convergence test for $Q_1$ ranges each time that the code is run from approximately 3% to 10% (Based on the random conditions). The success rate for $Q_2$ is always 100%. This implies that $Q_1$, which stabilizes all three links at once, is often not successful, unlike $Q_2$, which stabilizes the third link separately. This further implies that $Q_1$'s method of stabilizing the system introduces complexity that hinders the convergence, while $Q_2$'s method is more robust. Below is a diagram of the success rate, as well as a table.
 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3441c285-e981-4c5a-874a-5923ba42633a" alt="Monte-Carlo Success Comparison" width="450">
-    <br>
-  <em>Figure 3. Monte-Carlo Success Comparison</em>
-</p>
-
 <p align="center">
 <br>
   <em>Table 2: Tabulated Success Rates</em>
