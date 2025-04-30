@@ -17,6 +17,7 @@ https://www.mathworks.com/help/parallel-computing/parfor.html
 
 ![Trajectories](https://github.com/user-attachments/assets/362c995c-86f3-4d07-852c-f4e49ffd3c8c)
 
-![Mass Matrix Effect](https://github.com/user-attachments/assets/f5957b28-c1b2-43f8-b5e7-e3746e426bc9)
+![Mass Matrix Effect](![Mass Matrix Effect](https://github.com/user-attachments/assets/25d4663f-2743-4f7d-9924-9c6df768b51b)
+)
 
 ![ThreeLinkRobotAnimation](https://github.com/user-attachments/assets/9611d965-7a48-4adb-9611-69d6c42f9d33)
